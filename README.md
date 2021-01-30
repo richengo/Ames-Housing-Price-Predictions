@@ -1,6 +1,6 @@
-# Project 2: Ames Housing Data and Kaggle Challenge
+# Ames Housing Data and Kaggle Challenge
 
-### Riche Ngo, SG-DSI-18
+### Riche Ngo
 
 ## Problem Statement
 
