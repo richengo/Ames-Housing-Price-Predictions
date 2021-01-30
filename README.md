@@ -1,4 +1,4 @@
-# Ames Housing Data and Kaggle Challenge
+# Ames Housing Price Predictions
 
 ### Riche Ngo
 
